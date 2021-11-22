@@ -74,14 +74,6 @@ code {
 
 /* Header */
 
-[role='banner'] {
-  background: #fff;
-}
-
-[role='banner'] a + a {
-  margin-left: 0.5em;
-}
-
 /* Footer */
 
 [role='contentinfo'] .wrapper {
@@ -93,4 +85,10 @@ code {
 
 [role='contentinfo'] .deploy {
   max-width: 40%;
+}
+
+/* BONJOUR */
+
+.bonjour {
+  background: darkblue;
 }
